@@ -1,0 +1,1 @@
+export { default } from "file:///D:/Personal/projects/Apollo/NuxtVGP/node_modules/.pnpm/@nuxt+vite-builder@3.14.159_@types+node@22.9.0_eslint@9.14.0_jiti@2.4.0__magicast@0.3.5_optio_mfow7fnqjqhtyhsnvpwr7lh5em/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
